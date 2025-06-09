@@ -1,0 +1,1 @@
+This is my first time putting in stuff in this file. I feel like a proper Programmer. My first repo is very messy because it consists of different files which have no relation to each other. There's not much needed to explain as the codes are quite straightforward.
